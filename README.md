@@ -21,11 +21,11 @@
 * *Bag of Words*
 * *TF-IDF*
 
-# Resultados Obtidos:
+# Melhores Resultados Obtidos:
 
 | Algoritmo de Classificação + Modelo de Extração de Características | Acurácia | Sensibilidade (*Recall*) | Especificidade | Precisão | *F-score* |
 |:------------------------------------------------------------------:|:--------:|:------------------------:|:--------------:|:--------:|:---------:|
-|                   Regressão Logística + *TF-IDF*                   |  92,50%  |          91,12%          |     93,88%     |   93,72  |   92,41%  |
+|                   Regressão Logística + *TF-IDF*                   |  92,50%  |          91,12%          |     93,88%     |  93,72%  |   92,41%  |
 |                          *SVM* + *TF-IDF*                          |  92,29%  |          91,12%          |     93,46%     |  93,32%  |   92,21%  |
 |                   *Naive Bayes* + *Bag of Words*                   |  88,54%  |          88,07%          |     89,01%     |  88,94%  |   88,50%  |
 
